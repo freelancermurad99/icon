@@ -1,0 +1,81 @@
+body{
+	margin: auto;
+	padding:auto;
+}
+.main{
+	background: tomato;
+}
+.main ul li a{
+	color:white;
+	text-decoration: none;
+	font-size: 30px;
+	padding: 10px 20px;
+	margin-left: 120px;
+	display: block;
+	border-radius: 20px;
+}
+.main ul li a:hover{
+	color:tomato;
+	text-decoration: none;
+	background: white;
+}
+.main ul li{
+	
+	display: inline-block;
+
+}
+
+.main ul{
+	margin: auto;
+}
+.con{
+	width: 80%;
+	margin: auto;
+}
+
+
+.footer{
+	background: gray;
+	color:white;
+	width: 80%;
+	text-align: center;
+	margin: auto;
+
+}
+.footer ul li a{
+	text-decoration: none;
+	color:white;
+	display: inline-block;
+	padding: 10px;
+	font-size: 20px;
+}
+.footer ul li{
+	display: inline;
+}
+.footer ul{
+	margin-left: -30px;
+}
+p{
+	padding-bottom: 20px;
+}
+.con ul li a{
+	text-decoration: none;
+}
+.ulc li{
+	display: inline;
+	list-style: none;
+	font-size: 40px;
+	margin-left: 13.5%;
+}
+.others li a{
+	color:red;
+}
+.web li a{
+	color:gray;
+}
+.social li a{
+	color:tomato;
+}
+.big li a{
+	color:green;
+}
